@@ -1,2 +1,2 @@
 # landing_page
-Doing one of the projects of the Odin Project. 
+One of the projects of the Odin Project. Learned CSS box model and flexbox. 
